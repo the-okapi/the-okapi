@@ -12,12 +12,12 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="Godot" style="height: 20vh">
 </a>
 
-<a href="https://supabase.com">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" style="height: 20vh">
+<a href="https://tailwindcss.com">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" style="height: 20vh">
 </a>
 
-<a href="https://www.typescriptlang.org">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" style="height: 20vh">
+<a href="https://zed.dev">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zed/zed-original.svg" alt="Zed" style="height: 20vh">
 </a>
 
 <a href="https://www.okapiconservation.org/">
